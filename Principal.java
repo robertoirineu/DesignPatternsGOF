@@ -1,4 +1,4 @@
-import singleton.SingletonExe;
+import criacao.singleton.SingletonExe;
 
 public class Principal{
 

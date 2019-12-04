@@ -1,4 +1,4 @@
-package singleton;
+package criacao.singleton;
 
 public class SingletonExe{
 

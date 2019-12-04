@@ -1,4 +1,4 @@
-package singleton;
+package criacao.singleton;
 
 import java.awt.Dimension;
 import javax.swing.JFrame;
