@@ -7,7 +7,11 @@ public abstract class Animal{
 	private TipoAlimentacao alimentacao;
 	private TipoClasse classe;
 
-	public Animal(TipoFilo filo, TipoAlimentacao alimentacao, TipoClasse classe){
+	String comunicacao;
+	String reproducao;
+	String animal;
+
+public Animal(TipoFilo filo, TipoAlimentacao alimentacao, TipoClasse classe){
 		this.filo = filo;
 		this.alimentacao = alimentacao;
 		this.classe = classe;
