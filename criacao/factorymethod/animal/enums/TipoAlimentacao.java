@@ -1,4 +1,4 @@
-package enums;
+package criacao.factorymethod.animal.enums;
 
 public enum TipoAlimentacao{
 	ONIVORO("Onívore"), CARNIVORO("Carnívoro"), ERBIVORO("Erbívoro");

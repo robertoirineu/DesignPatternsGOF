@@ -1,6 +1,8 @@
-import enums.TipoFilo;
-import enums.TipoClasse;
-import enums.TipoAlimentacao;
+package criacao.factorymethod.animal;
+
+import criacao.factorymethod.animal.enums.TipoFilo;
+import criacao.factorymethod.animal.enums.TipoClasse;
+import criacao.factorymethod.animal.enums.TipoAlimentacao;
 
 public abstract class Animal{
 	private TipoFilo filo;

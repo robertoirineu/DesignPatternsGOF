@@ -1,4 +1,4 @@
-package enums;
+package criacao.factorymethod.animal.enums;
 
 public enum TipoFilo{
 	PORIFERO("Porífero"), ARTROPODE("Artrópode"), CORDATA("Cordate");
